@@ -2,6 +2,7 @@
 
 # Using the GitHub API, scrape all users in the city of Singapore with over 100 followers, and their repositories.
 users.csv: Use the SAME values as in the API response. For booleans, use true and false and empty strings for null.
+
 repositories.csv: Use the SAME values as in the API response. For booleans, use true and false and empty strings for null.
 
 # users.csv has following information about each user in Singapore with over 100 followers, with fields:
